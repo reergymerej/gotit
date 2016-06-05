@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "gotit",
-  "main": "index.js",
+  "main": "lib/index.js",
   "description": "Sometimes you just want to make sure your objects all have the same properties.",
   "keywords": [
     "object interface",
