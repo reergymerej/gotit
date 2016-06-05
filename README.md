@@ -1,8 +1,6 @@
 # gotit
 
-simple object interfaces
-
-Default values, type checking, and whatnot is a slippery slope.  Sometimes you just want to make sure your objects all have the same properties.
+Sometimes you just want to make sure your objects all have the same properties.
 
 ```js
 import gotit from 'gotit';
