@@ -1,5 +1,5 @@
-# gotit <small>v1.0.0</small>
-[![Build Status](https://travis-ci.org/reergymerej/gotit.svg?branch=master)](https://travis-ci.org/reergymerej/gotit)
+# gotit
+v1.0.0 [![Build Status](https://travis-ci.org/reergymerej/gotit.svg?branch=master)](https://travis-ci.org/reergymerej/gotit)
 
 Sometimes you just want to make sure your objects all have the same properties.
 
