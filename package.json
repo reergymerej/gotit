@@ -25,5 +25,14 @@
   "license": "ISC",
   "directories": {
     "test": "test"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reergymerej/gotit.git"
+  },
+  "author": "Jeremy Greer <jeremy.greer.atl@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/reergymerej/gotit/issues"
+  },
+  "homepage": "https://github.com/reergymerej/gotit#readme"
 }
